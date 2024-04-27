@@ -16,8 +16,8 @@ if we want to add it later on then click on settings and on left side panel ther
 GitHub is a web-based hosting platform for Git repositories.
 Git is a distributed version control system (DVCS) designed for tracking changes in source code during software development.
     > f. What does `git diff` do?
-
+git diff: Shows the changes between the current state of files in your working directory and the staging area (index). This command is useful for reviewing changes before staging them for a commit.
     > g. What is the `main` branch?
-
+it represents the main line of development and serves as the default branch where most development work occurs.
     > h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the `main` branch?
-    
+   we should not directly push it to main branch. in industry practise we should create a feature branch and then create a pull request to merge changes  
