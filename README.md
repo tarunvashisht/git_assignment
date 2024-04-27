@@ -8,11 +8,13 @@
     A pull request (often abbreviated as "PR") is a feature in distributed version control systems like Git that facilitates collaboration and code review in a team environment, especially in open-source projects and large development teams.
     
 > c. How do I open up a _pull request_?
-    
+	we do pull request from github    
     > d. Give me a step by step guide on how to add someone to your repository.
-
+we can add someone as collaborator in the repository when creating repo. 
+if we want to add it later on then click on settings and on left side panel there is collaborator
     > e. What is the difference between `git` and `GitHub`?
-
+GitHub is a web-based hosting platform for Git repositories.
+Git is a distributed version control system (DVCS) designed for tracking changes in source code during software development.
     > f. What does `git diff` do?
 
     > g. What is the `main` branch?
